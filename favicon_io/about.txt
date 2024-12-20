@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Reggae One
+- Font Author: Copyright 2020 The Reggae Project Authors (https://github.com/fontworks-fonts/Reggae/), all rights reserved.
+- Font Source: https://fonts.gstatic.com/s/reggaeone/v16/7r3DqX5msMIkeuwJwOJt_a5L5uH-mts.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
